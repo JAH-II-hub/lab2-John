@@ -4,3 +4,4 @@ This lab demonstrates DOM selection, event handling, and class manipulation
 using JavaScript with proper error checking.
 
 # Youtube Video:
+https://youtu.be/jQOS5xNJmlE

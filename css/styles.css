@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.navbar a {
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #333;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: lightgray;
+  border: 2px solid black;
+  margin: 10px;
+  padding: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.highlight {
+  background-color: yellow;
+  padding: 10px;
+  border-left: 4px solid orange;
+}
